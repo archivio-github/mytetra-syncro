@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="0" icon="" id="1" name="lista">
+   <recordtable>
+    <record id="1478543509xjab64e0t9" name="lista" author="giacomo" url="" tags="" ctime="20161107193149" dir="1478543509as3vyvk0rp" file="text.html" crypt="0"/>
+   </recordtable>
+  </node>
+  <node crypt="0" icon="" id="1478535956tx6upfk42l" name="banchi autogestiti 4 dicembre">
+   <recordtable>
+    <record id="1478536021u38zeh8wsy" name="banchi autogestiti 4 dicembre" author="giacomo" url="" tags="" ctime="20161107172701" dir="14785360215emb8brtw9" file="text.html" crypt="0"/>
+    <record id="14785469661l8ifehlfj" name="proposte" author="" url="" tags="" ctime="20161107202926" dir="1478546966ird1d5tzxc" file="text.html" crypt="0"/>
+   </recordtable>
+  </node>
+  <node crypt="0" icon="" id="1478536062swheguoser" name="richieste listino con tabella">
+   <recordtable>
+    <record id="1478540697oeu7wbw8re" name="richieste listino con tabella" author="giacomo" url="" tags="" ctime="20161107184457" dir="1478540697nqauh1815j" file="text.html" crypt="0"/>
+   </recordtable>
+  </node>
+  <node crypt="0" icon="" id="14785361009wtp48xk9v" name="registro stalla">
+   <recordtable>
+    <record id="1478536116xh94f1s30o" name="registro stalla" author="giacomo" url="" tags="" ctime="20161107172836" dir="147853611653xf913m1s" file="text.html" crypt="0"/>
+   </recordtable>
+  </node>
+  <node crypt="0" icon="" id="1479287920skuijvzrw1" name="quel che resta">
+   <recordtable>
+    <record id="1479287979so2wsscws0" name="quel che resta" author="giacomo" url="" tags="" ctime="20161116101939" dir="1479287979ro9ako2wql" file="text.html" crypt="0"/>
+    <record id="14792882615hnt1v0sxh" name="illusioni" author="silvia" url="" tags="" ctime="20161116102421" dir="14792882619dch54ty5g" file="text.html" crypt="0"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
