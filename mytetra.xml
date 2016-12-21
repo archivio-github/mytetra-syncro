@@ -28,7 +28,90 @@
    <recordtable>
     <record id="1479287979so2wsscws0" name="quel che resta" author="giacomo" url="" tags="" ctime="20161116101939" dir="1479287979ro9ako2wql" file="text.html" crypt="0"/>
     <record id="14792882615hnt1v0sxh" name="illusioni" author="silvia" url="" tags="" ctime="20161116102421" dir="14792882619dch54ty5g" file="text.html" crypt="0"/>
+    <record id="1481220035xku2zzezfl" name="biglietto" author="" url="" tags="" ctime="20161208190035" dir="1481220035z41j24gdqd" file="text.html"/>
+    <record id="14815923669dyuw3pze6" name="barca a vela" author="" url="" tags="" ctime="20161213022606" dir="1481592366zic23hx3e4" file="text.html"/>
    </recordtable>
+  </node>
+  <node crypt="" id="1481593565fgv7iz4fii" name="sitemap">
+   <recordtable>
+    <record id="1481593592k37ilvfciq" name="sitemap_labweb" author="" url="" tags="" ctime="20161213024632" dir="1481593592lrfs9ew4wv" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1482252359dxqw63oeka" name="pienovento">
+   <node crypt="" id="14822523740v9qqxo7vr" name="radice">
+    <node crypt="" id="1482254169crebpoyt4v" name="intento laboratorio">
+     <recordtable>
+      <record id="14822574872jlabrgd9b" name="inizio" author="" url="" tags="" ctime="20161220191127" dir="1482257487fff27mxq8k" file="text.html"/>
+      <record id="1482326613w9yw3x2yfr" name="vocabolario" author="" url="" tags="" ctime="20161221142333" dir="14823266139jix3pgkba" file="text.html"/>
+      <record id="1482326827imgofoon8d" name="labora" author="" url="" tags="" ctime="20161221142707" dir="1482326827idig91urf9" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1482253007hcxn2thyok" name="archivio attività del laboratorio">
+     <recordtable>
+      <record id="1482253660puzjd9stdp" name="disclaimer" author="" url="" tags="" ctime="20161220191743" dir="1482253660mr1ppcmo4h" file="text.html"/>
+      <record id="1482327672f8la5vwb2x" name="archivio schede" author="" url="" tags="" ctime="20161221144112" dir="14823276725qp2ie9tqp" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="148225447304qrvsi594" name="schede_piante">
+      <recordtable>
+       <record id="1482253508dhj2fu5038" name=".piante" author="" url="" tags="" ctime="20161220182113" dir="1482253508j8f65lz9ja" file="text.html"/>
+       <record id="14822535507scskxe35m" name=".schedapianta000" author="" url="" tags="" ctime="20161220182113" dir="1482253550nb66dlgi1j" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1482254482ue6xrhj6fl" name="schede_preparazioni">
+      <recordtable>
+       <record id="1482252762it6lpxvtcl" name=".preparazioni" author="" url="" tags="" ctime="20161220182122" dir="1482252762rocdczfp3j" file="text.html"/>
+       <record id="14823280933dc9bjll2n" name=".schedapreparazione" author="" url="" tags="" ctime="20161221144813" dir="1482328093nietfci60z" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="148225450458c0bwd0r4" name="schede_cartolina_bancodelmutuosoccorso">
+      <recordtable>
+       <record id="1482252815ckpluqgxn4" name=".bancodelmutuosoccorso" author="" url="" tags="" ctime="20161220182144" dir="1482252815qs7q5wmhho" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" icon="" id="1482324793rcx9z2812f" name="schede-vivaio">
+      <recordtable>
+       <record id="1482329460btekx82vhl" name=".vivaio" author="" url="" tags="" ctime="20161221151100" dir="1482329460go5c9n93rk" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1482257769d0swptgpcp" name="schede-formazione">
+      <recordtable>
+       <record id="14822528720vorp6isj0" name="formazione" author="" url="" tags="" ctime="20161220191624" dir="1482252872peaugk0wi3" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1482324758vgnabtj8z6" name="diario di laboratorio">
+      <recordtable>
+       <record id="1482253399wenhqd4ivo" name=".diario di laboratorio" author="" url="" tags="" ctime="20161221135303" dir="1482253399x92kv9pkzd" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="14822576766ia4aig8m2" name="galleria immagini">
+     <recordtable>
+      <record id="1482257804d1zw7dk3cq" name=".galleriaimmagini" author="" url="" tags="" ctime="20161220191644" dir="148225780412bgmtn17k" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1482253758au4snqcrl5" name="biblioteca">
+     <recordtable>
+      <record id="1482253772s1rdnm38xw" name=".biblioteca" author="" url="" tags="" ctime="20161220180932" dir="148225377292cduz3mq4" file="text.html"/>
+      <record id="1482324886yso47j1leb" name="old" author="" url="" tags="" ctime="20161221135446" dir="14823248869ergtttqy4" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1482252468yzpmbkftxw" name="redattori">
+     <recordtable>
+      <record id="1482252718tpq82r4toy" name=".redattori" author="" url="" tags="" ctime="20161220175158" dir="14822527180t67rspwlp" file="text.html"/>
+      <record id="1482253803ebqrnw05zh" name="contatti" author="" url="" tags="" ctime="20161220181003" dir="148225380366nxza0iyx" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1482253305edfj2pzvx2" name="cronologia del sito">
+     <recordtable>
+      <record id="1482253322317m7o8poc" name=".cronologia del sito" author="" url="" tags="" ctime="20161220180202" dir="1482253322zl9f5bkkny" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1482253830hyo5b3vblu" name="zaltro">
+     <recordtable>
+      <record id="1482253840inyxtnoghu" name="zaltro" author="" url="" tags="" ctime="20161220181040" dir="14822538406qir2m3dnx" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
  </content>
 </root>
